@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ayostar/ra-hw-1.1/static/css/main.4744b66b.css",
+    "main.js": "/ayostar/ra-hw-1.1/static/js/main.3341f405.js",
+    "static/js/787.6e0bd710.chunk.js": "/ayostar/ra-hw-1.1/static/js/787.6e0bd710.chunk.js",
+    "static/media/item-blue.jpg": "/ayostar/ra-hw-1.1/static/media/item-blue.2103f69bf3b1c8b44f34.jpg",
+    "static/media/item-black.jpg": "/ayostar/ra-hw-1.1/static/media/item-black.dd74251d47c485703b4d.jpg",
+    "index.html": "/ayostar/ra-hw-1.1/index.html",
+    "main.4744b66b.css.map": "/ayostar/ra-hw-1.1/static/css/main.4744b66b.css.map",
+    "main.3341f405.js.map": "/ayostar/ra-hw-1.1/static/js/main.3341f405.js.map",
+    "787.6e0bd710.chunk.js.map": "/ayostar/ra-hw-1.1/static/js/787.6e0bd710.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4744b66b.css",
+    "static/js/main.3341f405.js"
+  ]
+}
