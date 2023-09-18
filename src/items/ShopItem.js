@@ -11,7 +11,7 @@ export default class ShopItem {
 
     fields.forEach((field) => {
       if (!data.hasOwnProperty(field))
-        throw Error(`Объект переданный в Item должен содержать поле: ${field}`);
+        throw Error(`Не корректно переданный объект, поле: ${field}`);
       this[field] = data[field];
     });
   }
