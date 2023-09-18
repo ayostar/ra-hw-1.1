@@ -3,6 +3,7 @@ import ShopItem from '../items/ShopItem';
 
 function ShopItemFunc(props) {
   const { item } = props;
+  console.log({ item });
   return (
     <div className="main-content">
       <h2>{item.brand}</h2>

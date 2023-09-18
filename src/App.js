@@ -15,7 +15,8 @@ function App() {
     currency: '£',
   };
 
-  const item = new ShopItem(itemData);
+  const incomingItem = new ShopItem(itemData);
+  console.log(incomingItem);
 
   return (
     <div className="container">
@@ -24,7 +25,7 @@ function App() {
         <div className="highlight-overlay"></div>
       </div>
       <div className="window">
-        <ShopItemFunc item={item} />
+        <ShopItemFunc item={incomingItem} />
       </div>
     </div>
   );
